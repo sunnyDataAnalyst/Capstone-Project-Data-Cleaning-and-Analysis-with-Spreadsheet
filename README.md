@@ -48,5 +48,10 @@
 =AVERAGE(R2:R9995)
 ![image](https://user-images.githubusercontent.com/116772724/222921199-23aa0313-e386-4665-8920-5d143395e549.png)
 
-## Q.12) Use a VLOOKUP function to create a new column that shows the product sub-category for each product based on the separate sub-category sheet.
+## Q.12) Use a VLOOKUP function to create a new column that shows the product sub-category for each product based on the separate sub-category sheet.What is the subcategory of “Xerox 1887”?
 
+![image](https://user-images.githubusercontent.com/116772724/222922445-ba2770d5-264e-47e2-84df-320289eb0984.png)
+
+## Q.13) Create a new column that calculates the number of days between the order date and the ship date for each order. 
+  ##     Create a conditional formatting “color scale” for this column, from greenish to reddish.
+  ##     What is the number of days for order id - “CA-2015-100363”?
