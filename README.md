@@ -55,3 +55,6 @@
 ## Q.13) Create a new column that calculates the number of days between the order date and the ship date for each order. 
   ##     Create a conditional formatting “color scale” for this column, from greenish to reddish.
   ##     What is the number of days for order id - “CA-2015-100363”?
+  
+  ![image](https://user-images.githubusercontent.com/116772724/222931688-d1f75c51-066e-40c3-9c5c-7d05c2aac7bc.png)
+
