@@ -35,4 +35,7 @@
 
 ## Q.9) Calculate the price per unit of each product (before discounts), and put it in a separate column. What's the most expensive product?
  
+ ![image](https://user-images.githubusercontent.com/116772724/222920556-b197f502-fdb1-497b-8e3e-395b0182ef73.png)
+
+## Q.10) Create a pivot table that shows the total sales for each manufacturer and category combination. In the "Technology" category, which manufacturer had the second highest sales?
  
