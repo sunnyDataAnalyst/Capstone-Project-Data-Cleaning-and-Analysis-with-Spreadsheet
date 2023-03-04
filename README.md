@@ -20,3 +20,7 @@
 ## Q.5) Who is the customer who has made the most purchases? (Hint: use the “Order ID column to answer the question.)
 
 ![image](https://user-images.githubusercontent.com/116772724/222916881-7834a08f-e5ba-4fcc-be7b-edf00d2d2608.png)
+
+## Q.6) What state made the most profit?
+
+![image](https://user-images.githubusercontent.com/116772724/222917238-61a7f9f6-a1fa-4f32-b7f8-8ead00ef07d1.png)
