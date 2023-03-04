@@ -8,6 +8,8 @@
 ## Q.2) What is the average discount given for all orders?
 
 =AVERAGE(N2:N9995)
+![image](https://user-images.githubusercontent.com/116772724/222921229-4cbc91c8-24ef-47d9-8ade-69f6ef710901.png)
+
 
 ## Q.3) What is the most popular product among customers in the "Consumer" segment?
 
@@ -39,3 +41,12 @@
 
 ## Q.10) Create a pivot table that shows the total sales for each manufacturer and category combination. In the "Technology" category, which manufacturer had the second highest sales?
  
+ ![image](https://user-images.githubusercontent.com/116772724/222920934-16e22695-2904-4500-8c3c-4e7db913fd92.png)
+
+## Q.11)  Create a new column that calculates the profit margin for each order (hint: profit/sales). What's the profit margin average?
+
+=AVERAGE(R2:R9995)
+![image](https://user-images.githubusercontent.com/116772724/222921199-23aa0313-e386-4665-8920-5d143395e549.png)
+
+## Q.12) Use a VLOOKUP function to create a new column that shows the product sub-category for each product based on the separate sub-category sheet.
+
