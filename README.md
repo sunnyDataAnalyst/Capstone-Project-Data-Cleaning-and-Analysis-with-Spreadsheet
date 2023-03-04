@@ -24,3 +24,15 @@
 ## Q.6) What state made the most profit?
 
 ![image](https://user-images.githubusercontent.com/116772724/222917238-61a7f9f6-a1fa-4f32-b7f8-8ead00ef07d1.png)
+
+## Q.7) How many orders were shipped via "Standard Class" ship mode?
+
+![image](https://user-images.githubusercontent.com/116772724/222917412-db69379a-befa-46d9-a840-941b7763ddc3.png)
+
+## Q.8) Which region had the highest sales in the month of June?
+
+![image](https://user-images.githubusercontent.com/116772724/222918849-e3298812-b812-495e-83d2-c24919d775c1.png)
+
+## Q.9) Calculate the price per unit of each product (before discounts), and put it in a separate column. What's the most expensive product?
+ 
+ 
