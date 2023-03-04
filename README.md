@@ -12,3 +12,7 @@ Q.2) What is the average discount given for all orders?
 Q.3) What is the most popular product among customers in the "Consumer" segment?
 
 ![image](https://user-images.githubusercontent.com/116772724/222916583-52498b6c-ab5e-415e-ae44-e5b59a8ab433.png)
+
+Q.4) What is the total profit made for the "Office Supplies" category?
+
+![image](https://user-images.githubusercontent.com/116772724/222916787-20d94bd8-8ab4-4c6a-8bfd-7f7af8f2b099.png)
