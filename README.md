@@ -57,4 +57,11 @@
   ##     What is the number of days for order id - “CA-2015-100363”?
   
   ![image](https://user-images.githubusercontent.com/116772724/222931688-d1f75c51-066e-40c3-9c5c-7d05c2aac7bc.png)
+  
+## Q.14) Use the INDEX and MATCH functions to create a new column that shows the shipping cost for each order based on the separate shipping prices sheet. Assume that quantity or weight doesn’t matter. What is the shipping price for order id “CA-2015-100678”?
 
+
+
+## Q.15) Create a new column that concatenates the customer name, city, and state into a single string for each order. Select the correct result for CA-2015-100090
+
+![image](https://user-images.githubusercontent.com/116772724/222939003-331490ec-3367-4c5c-ac98-4dae4b4fc197.png)
