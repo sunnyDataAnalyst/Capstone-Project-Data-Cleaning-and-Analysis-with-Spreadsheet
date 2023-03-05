@@ -60,8 +60,30 @@
   
 ## Q.14) Use the INDEX and MATCH functions to create a new column that shows the shipping cost for each order based on the separate shipping prices sheet. Assume that quantity or weight doesn’t matter. What is the shipping price for order id “CA-2015-100678”?
 
+![image](https://user-images.githubusercontent.com/116772724/222988329-16982fc3-f051-482e-a0d4-18115ca16b2d.png)
 
 
 ## Q.15) Create a new column that concatenates the customer name, city, and state into a single string for each order. Select the correct result for CA-2015-100090
 
 ![image](https://user-images.githubusercontent.com/116772724/222939003-331490ec-3367-4c5c-ac98-4dae4b4fc197.png)
+
+## Q.16)  Use the IFS function to create a new column that categorizes each order as "High," "Low," or "Loss" based on profit and sales criteria.
+      "High" consider as:
+
+   - If sales are above 200 and profit is above 20
+
+    - If profit is above 40.
+
+       Else:
+
+ If the profit is equal or below 0 this is categorized as “Loss”
+Any other case this is categorized as "Low"
+Use conditional formatting to color the columns with the values “High” in green and the value “Loss” in red.**
+
+How many “Loss” do you have?
+
+![image](https://user-images.githubusercontent.com/116772724/222988530-e960190f-b77a-4354-8023-da05d70cd02d.png)
+
+## Q.17) In a new sheet, create a dropdown of category and product which returns the price for a unit (which you previously solved in exercise 9.)
+
+![image](https://user-images.githubusercontent.com/116772724/222988588-4b402594-d74c-4450-bf66-ae59276086d2.png)
