@@ -1,4 +1,4 @@
-# Capstone-Project-Data-Cleaning-and-Analysis-with-Spreadsheet
+# Capstone-Project-Data-Cleaning-and-Analysis-with-Spreadsheet/ Excel
 
 ## Q.1) What was the city with the highest sales?
 
